@@ -60,12 +60,7 @@ body {
   
   .attribution a:hover {
     text-decoration: underline;
-  }
-  
-  @media (min-width: 1440px) {
-    .card {
-      width: 350px;
-    }
+
   }
   
   
